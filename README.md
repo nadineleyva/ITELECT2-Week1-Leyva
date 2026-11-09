@@ -12,4 +12,4 @@ Section: 3.5BSIT
 - Compile errors I triggered: 
   - CS1002: `; expected` — triggered by missing a statement's closing semicolon.
   - CS0103: `The name 'x' does not exist in the current context` — triggered by case-sensitivity errors (like typing `console` instead of `Console`).
-- My prediction for 250 / 4 with int values was 62.5 and the result was 62 because integer division drops the decimal portion when both operands are integers.
+- My prediction for 250 / 4 with int values was 62.5 and the result was 62 because integer division drops the decimal portion when both operands are integers. 
